@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/oxyblog",
+    "prod_uri": "mysql://root:@localhost/oxyblog",
+    "fb_url": "https://www.facebook.com/",
+    "tw_url": "https://www.twitter.com",
+    "gh_url":"https://www.github.com",
+    "gmail-user": "itzoxyblog@gmail.com",
+    "gmail-password": "qwerty@123",
+    "no_of_posts": 5,
+    "admin_user": "saurabh",
+    "admin_password": "saurabh@321",
+    "upload_location": "C:\\Users\\itzsa\\PycharmProjects\\pythonProject\\static"
+
+  }
+
+
+}
